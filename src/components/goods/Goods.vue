@@ -1,6 +1,6 @@
 <template>
   <div class="goods">
-    <!-- 分类列表 我试着加几个字 -->
+    <!-- 分类列表 -->
     <div class="menu-wrapper" ref="menuScroll">
       <ul>
         <!-- 专场 -->
