@@ -33,7 +33,7 @@
     <!-- 商品列表 贫僧加了几个字-->
     <div class="foods-wrapper" ref="foodScroll">
       <ul>
-        <!-- 专场 -->
+        <!-- 专场 贫僧再加几个字-->
         <li class="container-list food-list-hook">
           <div v-for="(item,index) in container.operation_source_list" :key="index">
             <img :src="item.pic_url">
