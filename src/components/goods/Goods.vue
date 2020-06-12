@@ -30,7 +30,7 @@
         </li>
       </ul>
     </div>
-    <!-- 商品列表 -->
+    <!-- 商品列表 贫僧加了几个字-->
     <div class="foods-wrapper" ref="foodScroll">
       <ul>
         <!-- 专场 -->
